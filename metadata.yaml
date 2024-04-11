@@ -1,0 +1,26 @@
+_repo: Hystereo_73296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baudin, Maurice
+    gutenberg_agent_id: '57026'
+    url: http://www.gutenberg.org/2009/agents/57026
+description: ''
+gutenberg_issued: '2024-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73296'
+language: en
+pgterms:marc905: 20240225154942baudin
+pgterms:marc906: '1961'
+pgterms:marc907: us
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hystereo
+url: http://www.gutenberg.org/ebooks/73296
