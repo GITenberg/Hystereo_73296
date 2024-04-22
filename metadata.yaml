@@ -1,11 +1,16 @@
 _repo: Hystereo_73296
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73296-h/images/cover.jpg
 creator:
   author:
     agent_name: Baudin, Maurice
     gutenberg_agent_id: '57026'
     url: http://www.gutenberg.org/2009/agents/57026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73296#Hystereo
 gutenberg_issued: '2024-03-30'
 gutenberg_type: Text
 identifiers:
